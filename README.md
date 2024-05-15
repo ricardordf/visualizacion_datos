@@ -2,11 +2,11 @@
 
 ### Autor: Ricardo Delgado Fernández - 21844773
 
-### Descripción del Proyecto
+### Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar el impacto de las condiciones meteorológicas en las operaciones aeroportuarias de cinco aeropuertos españoles durante el año 2019. Utilizando datos de informes METAR emitidos por AEMET, se han generado diversas visualizaciones para facilitar la interpretación y el análisis de la información meteorológica.
 
-### Estructura del Proyecto
+### Estructura del proyecto
 
 1. **Análisis de datos y su respectivo impacto**
    - Explicación de cómo diferentes variables meteorológicas afectan las operaciones aeroportuarias.
