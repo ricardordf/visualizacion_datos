@@ -1,4 +1,4 @@
-# Actividad. Visualización de Datos
+# Actividad. Visualización de datos
 
 ### Autor: Ricardo Delgado Fernández - 21844773
 
