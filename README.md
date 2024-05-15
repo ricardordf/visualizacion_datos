@@ -1,4 +1,4 @@
-# Gestión Inteligente de Datos Meteorológicos en Tiempo Real - Visualización de Datos
+# Actividad. Visualización de Datos
 
 ### Autor: Ricardo Delgado Fernández - 21844773
 
